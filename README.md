@@ -66,12 +66,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div>
 
-###
 
+<!-- 
 <div align="center">
-  <!-- <img src="https://github-readme-stats-black-zeta-85.vercel.app/api?username=bergerac5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats-black-zeta-85.vercel.app/api?username=bergerac5&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-black-zeta-85.vercel.app/api/top-langs?username=bergerac5&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
